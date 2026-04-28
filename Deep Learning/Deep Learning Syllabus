@@ -1,1 +1,27 @@
+* Deep Learning *
 
+Course Objectives: Deep learning techniques have been used successfully for variety of applications. 
+ 
+Course Outcomes: At the end of the course, the students will be able to - 
+CO1: Basics of Machine Learning  
+CO2: Learn Neural Network and its Applications 
+CO3: Understand the need of Deep Learning 
+CO4: Apply Deep Networks 
+CO5: Develop Tuning Deep Network 
+ 
+Unit 
+1 
+Introduction:-The Learning Machine, How Can Machine Learn, Biological Inspiration, What is Deep Learning. Math, Behind Machine Learning: Scalars, 
+Vectors, Matrices, Tensors, Hyperplanes, Probability, Conditional Probability, Posterior Probability, Distribution, Samples Verses, Population. 
+2 
+Foundation of Neural Network and Deep Learning: Neural Network, The Biological Neuron, The Perceptron, Multilayer Feed-Forward 
+Networks, Training Neural, Network, Activation Function: Linear, Sigmoid, Tanh, Hard Tanh, Softmax, Loss Functions, Hyperparameters.  
+3 
+Fundamentals of Deep Networks:-Unsupervised Pretrained Networks, Deep Belief Network, Convolution Neural Networks (CNNs): Biological Inspiration, 
+Intuition, Input Layer. Recurrent Neural Network, Modeling the Time Dimension. Recursive Neural Networks. 
+4 
+Building Deep Network:-Matching Deep Networks to the Right Problem, Columnar Data and Multilayer Perceptron’s, The DL4J Suite of Tools, Basic 
+Concept of DL4J API, Modelling CSV Data with Multilayer Perceptron Networks, Modelling Handwritten Images Using CNNs. 
+5 
+Tuning Deep Network:-Basic Concept in Tuning Deep Network, Matching Input Data and Network Architectures, Relating Model Goal and Output Layers, Working 
+with Layer Count, Parameter Count and Memory, Feed-Forward Multilayer Neural Networks, Controlling Layer and Parameter Counts. 
