@@ -1,0 +1,29 @@
+*  Development Operations *
+
+Course Objectives: learn how these tools are used in software development operations 
+ 
+Course Outcomes: At the end of the course, the students will be able to - 
+CO 1: Understand the Fundamentals of DevOps 
+CO 2: Lean DevOps Capabilities 
+CO 3:Adopt DevOps resources and infrastructures 
+CO 4:How DevOps Works with real time Application 
+CO 5:Develop Multiple-Tier Applications
+
+Unit
+1 
+What Is DevOps:-Understanding the Business Need for DevOps, Recognizing the Business Value of DevOps, Enhanced customer experience,
+Increased capacity to innovate, Faster time to value, How DevOps Works, Develop and test against production-like systems, Deploy with repeatable,
+reliable processes, Monitor and validate operational quality, Amplify feedback loops.  
+2 
+Looking at DevOps Capabilities:-Paths to DevOps Adoption, Steer, Develop/Test, Collaborative development, Continuous testing, Deploy, Operate, 
+Continuous monitoring, Continuous customer feedbackand optimization.  
+3 
+Adopting DevOps:-Where to Begin, Identifying business objectives, Identifying bottlenecks in the delivery pipeline, People in DevOps, DevOps culture,
+DevOps team, Process in DevOps, DevOps as a business process, Change management process, DevOps techniques, Technology in DevOps, Infrastructure as code,
+Delivery pipeline, Deployment automation and release management. 
+4 
+How CloudAccelerates DevOps:-Using Cloud as an Enabler for DevOps, FullStack Deployments, Choosing a Cloud Service Model for DevOps,
+Understanding What a Hybrid Cloud. 
+5 
+DevOps to Solve New Challenges:-Mobile Applications, ALM Processes, Scaling Agile, Multiple-Tier Applications, DevOps in the Enterprise, 
+Supply Chains, The Internet of Things
