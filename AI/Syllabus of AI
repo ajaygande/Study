@@ -1,0 +1,35 @@
+# Course code: MDS41MML604 Course name: Artificial Intelligence
+
+## Course Objectives: Understand basic principles, techniques, and applications of Artificial Intelligence 
+and Problem solving, inference, perception, knowledge representation, and learning.
+
+## Course Outcomes: At the end of the course, the students will be able to - 
+## CO 1: Understanding of the history of artificial intelligence (AI) and its foundations. 
+## CO 2: Apply basic principles of AI in solutions that require problem solving, inference 
+## CO 3: Perception, knowledge representation, and learning. 
+## CO 4: Demonstrate awareness and a fundamental understanding of various applications of AI 
+## CO 5: Develop Knowledge based System
+
+Unit 
+1 
+Content 
+Introduction:-Introduction to Artificial Intelligence, Historical Background, 
+What is Intelligence? Depth First Search (DFS), Breadth First Search (BFS), 
+Comparison of Depth First Search and Breadth First Search, Quality of Solution 
+2 
+Heuristic Search:- Heuristic Functions, Best First Search, Hill Climbing, Local 
+Maxima, Solution Space Search, Variable Neighbourhood Decent, Beam Search, 
+Tabu Search, Peak to Peak Method. 
+3 
+Randomized Search and Emergent Systems:-Iterated Hill Climbing, Simulated 
+Annealing, Genetic Algorithm, The Travelling Salesman Problem, Neural 
+Network, Emergent System, Ant Colony Optimization 
+4 
+Finding Optimal Paths:-Brute Force, Branch and Bound, Refinement Search, 
+Dijkstra’s Algorithm, Algorithm of A*, Admissibility of A*, Recursive Best First 
+Search (RBFS), Pruning the CLOSED List, Pruning the OPEN List, Divide and 
+Conquer Beam Stack Search 
+5 
+Knowledge Representation:-Knowledge Representation, Representation and 
+Mapping, Approaches to Knowledge Representation, Issues in Knowledge 
+Representation, Predicate Logic, Representing Knowledge Using Rules
