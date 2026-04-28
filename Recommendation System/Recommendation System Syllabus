@@ -1,0 +1,24 @@
+* Recommendation System *
+
+Course Objectives: Study various recommender system and to generate relevant recommendations. 
+ 
+Course Outcomes: At the end of the course, the students will be able to -, 
+CO1: Familiarize with recommender systems and their applications 
+CO2: Analyze the different approaches towards recommendation 
+CO3: Evaluate the effectiveness of recommender system 
+CO4: Design recommender system 
+ 
+Unit
+1 
+An Introduction to Recommender Systems:-Introduction, Goals of Recommender Systems, The Spectrum of Recommendation Applications, Basic 
+Models of Recommender Systems, Collaborative Filtering Models, ContentBased Recommender Systems. 
+2 
+Knowledge-Based Recommender Systems:-Demographic Recommender Systems, Hybrid and Ensemble-Based Recommender Systems, Domain-Specific 
+Challenges in Recommender Systems, Advanced Topics and Applications  
+3 
+Neighborhood-Based Collaborative Filtering:-Introduction, Key Properties of Ratings Matrices, Predicting Ratings with Neighborhood-BasedMethods,
+User Based Neighborhood Models, Item-Based Neighborhood Models, Clustering and Neighborhood-Based Methods, Dimensionality Reduction and 
+NeighborhoodMethods,A Regression Modeling View of NeighborhoodMethods,Graph Models for Neighborhood-Based Methods  
+4 
+Model-Based Collaborative Filtering:-Introduction, Decision and Regression Trees, Rule-Based Collaborative Filtering, Naive Bayes Collaborative Filtering, 
+Using an Arbitrary Classification Model as a Black-Box, Latent Factor Models, Integrating Factorization and Neighborhood Models.
