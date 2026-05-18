@@ -20,8 +20,8 @@ Networks, Training Neural, Network, Activation Function: Linear, Sigmoid, Tanh, 
 Fundamentals of Deep Networks:-Unsupervised Pretrained Networks, Deep Belief Network, Convolution Neural Networks (CNNs): Biological Inspiration, 
 Intuition, Input Layer. Recurrent Neural Network, Modeling the Time Dimension. Recursive Neural Networks. 
 4 
-Building Deep Network:-Matching Deep Networks to the Right Problem, Columnar Data and Multilayer Perceptron’s, The DL4J Suite of Tools, Basic 
-Concept of DL4J API, Modelling CSV Data with Multilayer Perceptron Networks, Modelling Handwritten Images Using CNNs. 
+Building Deep Network:-Matching Deep Networks to the Right Problem, Columnar Data and Multilayer Perceptron’s,
+Modelling CSV Data with Multilayer Perceptron Networks, Modelling Handwritten Images Using CNNs. 
 5 
 Tuning Deep Network:-Basic Concept in Tuning Deep Network, Matching Input Data and Network Architectures, Relating Model Goal and Output Layers, Working 
 with Layer Count, Parameter Count and Memory, Feed-Forward Multilayer Neural Networks, Controlling Layer and Parameter Counts. 
